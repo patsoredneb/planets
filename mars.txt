@@ -1,1 +1,2 @@
-This is some comment about Mars' suitability as an extraplanetary base.
+This is some comment about Mars's suitability as an extraplanetary base.
+TODO: check the atmospheric pressure
