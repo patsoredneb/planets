@@ -1,2 +1,2 @@
 This is some comment about Mars's suitability as an extraplanetary base.
-TODO: check the atmospheric pressure
+Mars has two moons: Phobos and Demos
